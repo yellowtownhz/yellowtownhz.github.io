@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+.sites-runtime/
+tmp/
+# Local provenance notes may contain private task references.
+CONTENT_SOURCES.md
